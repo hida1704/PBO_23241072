@@ -4,6 +4,7 @@ package com.tutorial;
 public class Hero {
     // atribut
     String nama;
+    public String name;
 
     // method
     void cetak(){

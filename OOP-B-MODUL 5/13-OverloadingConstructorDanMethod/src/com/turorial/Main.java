@@ -4,10 +4,10 @@ public class Main {
     
     public static void main(String[] args) {
         // membuat objek
-        Player player1 = new Player("Chelly");
+        Player player1 = new Player("Hida");
         Player player2 = new Player();
         Player player3 = new Player();
-        Player player4 = new Player("Satya");
+        Player player4 = new Player("Apriaty");
 
 
         player1.cetak();
